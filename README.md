@@ -7,9 +7,11 @@ This repository contains my learning and practice of Python concepts used in Dat
 ## 📌 Topics Covered
 
 ### 🔹 Problem Solving
+- List Operations (Filtering, Transformation)
+- Frequency Counting using Dictionary
 - First Non-Repeating Element
-- Pair Sum (Two Sum Pattern)
-- Duplicates
+- Pair Sum (Two Sum Pattern using Set)
+- Finding Duplicates using Set
 
 ### 🔹 Pandas
 - GroupBy
@@ -21,25 +23,14 @@ This repository contains my learning and practice of Python concepts used in Dat
 ```
 python-data-analysis/
 │
-├── problem_solving/
-│   ├── non_repeating.py
-│   ├── pair_sum.py
-│   ├── duplicates.py
-│
-├── pandas/
-│   ├── groupby.py
+├── problem_solving/   #Python logic problems
+│   
+├── pandas/   #Data analysis using pandas
 │
 └── README.md
 ```
 ---
 
-## 🧠 Key Learnings
-
-- Used dictionaries for frequency counting  
-- Used sets for efficient pair finding  
-- Applied Pandas for data aggregation and analysis 
-
----
 
 ## 📈 Goal
 
