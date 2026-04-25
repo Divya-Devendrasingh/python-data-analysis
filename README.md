@@ -37,7 +37,7 @@ python-data-analysis/
 
 - Used dictionaries for frequency counting  
 - Used sets for efficient pair finding  
-- Applied Pandas for data aggregation  
+- Applied Pandas for data aggregation and analysis 
 
 ---
 
