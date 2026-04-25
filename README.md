@@ -18,8 +18,8 @@ This repository contains my learning and practice of Python concepts used in Dat
 ---
 
 ## 📂 Project Structure
-python-data-analysis/
 ```
+python-data-analysis/
 │
 ├── problem_solving/
 │   ├── non_repeating.py
