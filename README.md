@@ -18,17 +18,6 @@ This repository contains my learning and practice of Python concepts used in Dat
 ---
 
 ## 📂 Project Structure
-python-data-analysis/
-│
-├── problem_solving/
-│   ├── non_repeating.py
-│   ├── pair_sum.py
-│   ├── duplicates.py
-│
-├── pandas/
-│   ├── groupby.py
-│
-└── README.md
 
 ---
 
