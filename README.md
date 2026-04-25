@@ -21,15 +21,14 @@ This repository contains my learning and practice of Python concepts used in Dat
 python-data-analysis/
 │
 ├── problem_solving/
-│ ├── non_repeating.py
-│ ├── pair_sum.py
-│ ├── duplicates.py
+│   ├── non_repeating.py
+│   ├── pair_sum.py
+│   ├── duplicates.py
 │
 ├── pandas/
-│ ├── groupby.py
+│   ├── groupby.py
 │
 └── README.md
-
 
 ---
 
