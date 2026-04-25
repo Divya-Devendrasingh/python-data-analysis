@@ -1,13 +1,46 @@
 # Python Data Analysis
 
-This repository contains my practice and learning in Python for Data Analysis.
+This repository contains my learning and practice of Python concepts used in Data Analysis.
 
-## Topics Covered
+---
 
-- Problem Solving (Non-repeating, Pair Sum)
-- Pandas (GroupBy, Aggregation)
+## 📌 Topics Covered
 
-## Highlights
+### 🔹 Problem Solving
+- First Non-Repeating Element
+- Pair Sum (Two Sum Pattern)
+- Duplicates
 
-- Implemented efficient solutions using dictionaries and sets
-- Applied Pandas for basic data analysis tasks
+### 🔹 Pandas
+- GroupBy
+- Aggregation
+
+---
+
+## 📂 Project Structure
+python-data-analysis/
+│
+├── problem_solving/
+│ ├── non_repeating.py
+│ ├── pair_sum.py
+│ ├── duplicates.py
+│
+├── pandas/
+│ ├── groupby.py
+│
+└── README.md
+
+
+---
+
+## 🧠 Key Learnings
+
+- Used dictionaries for frequency counting  
+- Used sets for efficient pair finding  
+- Applied Pandas for data aggregation  
+
+---
+
+## 📈 Goal
+
+To strengthen problem-solving and data analysis skills using Python.
